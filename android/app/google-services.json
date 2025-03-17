@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807936478944",
+    "project_id": "neuroflex2",
+    "storage_bucket": "neuroflex2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807936478944:android:36335c706a9df83ecbca85",
+        "android_client_info": {
+          "package_name": "com.example.neuroflex2_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLODPoZTfrbIaCCO__TREveUl3CMf06E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
